@@ -1,0 +1,9 @@
+{
+  "message": "your message",
+  "auth": {
+    "username": "",
+    "password": ""
+  },
+  "target": "your target",
+  "count": 200
+}
